@@ -3,7 +3,8 @@ body {
 } 
 
 h1 { 
-  color: red;
+  background-color: green;
+  color: gray;
 }
 
 p {
