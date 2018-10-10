@@ -1,7 +1,16 @@
 body {
-  background-color: rgb(255, 22, 35);
+  background-color: rgb(255, 255, 255);
 } 
 
-a {
-  color: pink;
+p {
+  color: rgb(0, 0, 0)
 }
+
+a {
+  color: rgb(0, 0, 255);
+}
+
+li {
+  color: rgb(0, 255, 0) 
+}
+
