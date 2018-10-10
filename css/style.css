@@ -2,6 +2,10 @@ body {
   background-color: rgb(255, 255, 255);
 } 
 
+h1 { 
+  color: red;
+}
+
 p {
   color: rgb(0, 0, 0)
 }
@@ -11,6 +15,6 @@ a {
 }
 
 li {
-  color: rgb(0, 255, 0) 
+  color: green;
 }
 
