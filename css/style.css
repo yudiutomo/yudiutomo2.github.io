@@ -11,16 +11,19 @@ h1, p {
 
 h1 {
   font-size: 20px;
-  color: rgb(0, 0, 0)
+  color: rgb(0, 0, 0);
+  font-family: Roboto, Verdana, Arial, sans-serif;  
 }
 
 p {
   font-size: 10px;
-  color: rgb(0, 0, 0)
+  color: rgb(0, 0, 0);
+  font-family: "Times New Roman", Georgia, serif; 
 }
 
 a {
   color: rgb(0, 0, 255);
+  font-weight: bold;
 }
 
 a:hover {
