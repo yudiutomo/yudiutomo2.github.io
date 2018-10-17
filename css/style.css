@@ -53,6 +53,7 @@ div {
  width: 70%;
  float: left;
  height: 100px;
+ border: 1px solid black;
 }
 
 .sidebar {
@@ -60,6 +61,7 @@ div {
  width: 30%;
  float: right;
  height: 100px;
+ border: 1px solid red;
 }
 
 .footer {
