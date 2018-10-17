@@ -51,11 +51,13 @@ div {
 .content {
  background-color: pink;
  width: 70%;
+ float: left;
 }
 
 .sidebar {
  background-color: lime;
  width: 30%;
+ float: right;
 }
 
 .footer {
