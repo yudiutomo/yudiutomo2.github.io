@@ -48,6 +48,16 @@ div {
  height: 200px;
 }
 
+.content {
+ background-color: pink;
+ width: 70%;
+}
+
+.sidebar {
+ background-color: lime;
+ width: 30%;
+}
+
 .footer {
  background-color: silver;
  width: 100%;
