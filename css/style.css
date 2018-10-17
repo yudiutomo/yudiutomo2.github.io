@@ -52,12 +52,14 @@ div {
  background-color: pink;
  width: 70%;
  float: left;
+ height: 100%;
 }
 
 .sidebar {
  background-color: lime;
  width: 30%;
  float: right;
+ height: 100px;
 }
 
 .footer {
